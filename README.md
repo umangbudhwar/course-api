@@ -1,4 +1,4 @@
 # course-api
 SpringBoot Application
 
-This project is developed by following along the course Spring Boot Quick Start by JavaBrains.
+This project is developed by following along the course Spring Boot Quick Start by JavaBrains. 
